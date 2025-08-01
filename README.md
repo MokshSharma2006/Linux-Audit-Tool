@@ -44,6 +44,4 @@ This script is designed for administrative users and should be run with `sudo` o
 
 **Always review the results and commands before remediation. This tool is for auditing and assessment purposes only and does not make any system changes.**
 
-Let me know if you’d like a README template or more detail on any section!
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/35819041/53e783c1-24e2-41da-8fcf-839e362d9a95/Linux_Audit_Tool.sh
+## Releases Will Be Uploaded Regularly 
