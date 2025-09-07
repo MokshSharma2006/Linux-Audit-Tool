@@ -2,7 +2,7 @@
 
 ### Overview
 
-**Linux_Audit_Tool.sh** is an automated Bash script for comprehensive Linux security auditing, developed by Moksh Sharma. The script is designed to quickly gather, organize, and report on a wide array of security-relevant system settings, user configurations, network exposures, and auditing frameworks. It produces a detailed plaintext report that can be used by system administrators and security professionals to identify and remediate common security issues.
+**Linux-Audit-Tool** is an automated Bash script for comprehensive Linux security auditing, developed by Moksh Sharma. The script is designed to quickly gather, organize, and report on a wide array of security-relevant system settings, user configurations, network exposures, and auditing frameworks. It produces a detailed plaintext report that can be used by system administrators and security professionals to identify and remediate common security issues.
 
 ### Key Features
 
