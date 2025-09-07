@@ -22,7 +22,7 @@
   Captures kernel parameters, ASLR, and core dump settings for review.
 
 - **Logging and Auditing**  
-  Checks auditd status, current audit rules, and recent authentication logs.
+  Checks audit status, current audit rules, and recent authentication logs.
 
 - **Package and Update Status**  
   Lists all installed packages and checks for available security updates (supports both apt and yum/rpm).
